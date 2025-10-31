@@ -1,36 +1,68 @@
-# 📚 Smart Library Management System
+📚 Smart Library Management System
 
-A simple and efficient system to manage library operations like book issue, return, and record maintenance using Python and MySQL.
+A simple PHP + MySQL Library Management System with admin login, book add/search/sold-out tracking, and dynamic availability view.
+💡 Perfect for beginners and academic projects.
 
-## 🚀 Features
-- Add, update, and delete books  
-- Manage students and issue/return records  
-- Fine calculation for late returns  
-- Search and report generation  
-- Secure admin login  
+🚀 Features
 
-## 🛠️ Tech Stack
-- **Frontend:** Tkinter (Python GUI)  
-- **Backend:** Python  
-- **Database:** MySQL  
+✅ Admin Login System
+✅ Add, Search, Update, and Delete Books
+✅ Track Sold-Out Books
+✅ Dynamic Availability View
+✅ Simple and Responsive Interface
 
-## ⚙️ How to Run
-1. Clone this repository  
-2. Install dependencies:
-   ```bash
-   pip install mysql-connector-python
-Import library_db.sql into MySQL
+🧠 Tech Stack
 
-Update your database credentials in the code
+Frontend: HTML, CSS, JavaScript, Backend: PHP, Database: MySQL, Server: XAMPP
 
-Run:
 
-bash
-Copy code
-python library.py
-💡 Future Scope
-Barcode integration
+🧾 How to Run This Project
 
-Email reminders for due books
+1️⃣ Download the Project
 
-Online book reservation
+--Click the green Code button above
+
+--Choose Download ZIP
+
+--Extract the ZIP file anywhere on your computer
+
+2️⃣ Move to XAMPP Folder
+
+--Copy the extracted project folder
+
+--Paste it inside:
+
+--C:\xampp\htdocs\
+
+3️⃣ Start XAMPP
+
+--Open XAMPP Control Panel
+
+--Start Apache and MySQL
+
+4️⃣ Create the Database
+
+--Go to: http://localhost/phpmyadmin
+
+--Click New → name it library_db
+
+--Click Create
+
+--Go to Import → choose your .sql file (from the project folder)
+
+--Click Go
+
+5️⃣ Run the Project
+
+--Open your browser and type:
+
+
+🔐 Details
+
+Username: admin  
+Password: admin123
+
+
+🔐 Login Details
+Username: admin  
+Password: admin123
