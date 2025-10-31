@@ -42,7 +42,7 @@ Frontend: HTML, CSS, JavaScript, Backend: PHP, Database: MySQL, Server: XAMPP
 
 4️⃣ Create the Database
 
---Go to: http://localhost/phpmyadmin
+--Go to: localhost/phpmyadmin
 
 --Click New → name it library_db
 
