@@ -61,9 +61,3 @@ Frontend: HTML, CSS, JavaScript, Backend: PHP, Database: MySQL, Server: XAMPP
 
 Username: admin  
 Password: admin123
-
-
-🔐 Login Details
-
-Username: admin  
-Password: admin123
